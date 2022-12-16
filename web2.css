@@ -2,3 +2,6 @@ textarea{
     position: relative;
     left: 4px;
 }
+body{
+background: red; 
+} 
